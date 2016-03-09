@@ -1,0 +1,6 @@
+name = Zwolfs test task
+description = Zwolfs test task
+core = 7.x
+package = Zwolfs
+version = 7.x-1.0
+dependencies[] = ctools
